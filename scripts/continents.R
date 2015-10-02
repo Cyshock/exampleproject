@@ -7,6 +7,9 @@
 #call package
 # you can check if it is installled wiht a condition before calling the packkage ggplot2
 
+#extra comments
+#more comments
+
 library(ggplot2)
 #assume you have a data/gapminder.RData, add a condition later or read the data from a csv
 
@@ -33,3 +36,5 @@ make_pngplot <- function(name){
 #how to receive input from the user
 arg <- commandArgs(TRUE)
 try(make_pngplot(arg[1]))
+
+#end comment
