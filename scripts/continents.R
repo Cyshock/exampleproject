@@ -9,6 +9,10 @@
 
 #extra comments
 #more comments
+# and yet more coomments
+
+#and more
+
 
 library(ggplot2)
 #assume you have a data/gapminder.RData, add a condition later or read the data from a csv
