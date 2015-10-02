@@ -2,7 +2,7 @@
 #Title: R plotting continents
 #Author: Mr MR
 #Date: 2nd October 2015
-#Version: 0.01
+#Version: 0.02
 
 #call package
 # you can check if it is installled wiht a condition before calling the packkage ggplot2
